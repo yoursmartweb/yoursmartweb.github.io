@@ -4,3 +4,7 @@
 .ysw_t .label-mobile {
 	display:none;
 }
+
+.ysw_t .gallery .row div {
+	margin-bototm:10px;
+}
