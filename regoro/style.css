@@ -1,8 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,700); /* font */
-@import url(https://googledrive.com/host/0B-Jfra-UdhuQbXZDbHNFN05EYWc/); /* boostrap */
+@import url(//raw.githubusercontent.com/yoursmartweb/yoursmartweb.github.io/master/bootstrap.min.css); /* boostrap */
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css); /* font-awesome */
-@import url(https://googledrive.com/host/0B-Jfra-UdhuQa1JtcUtFY0R1bjA/); /* gallery */
-@import url(https://googledrive.com/host/0B-Jfra-UdhuQLWxNM0xscDBmM3c/); /* main */
+@import url(//raw.githubusercontent.com/yoursmartweb/yoursmartweb.github.io/master/gallery.css); /* gallery */
+@import url(//raw.githubusercontent.com/yoursmartweb/yoursmartweb.github.io/master/main.css); /* main */
 
 
 .ysw_t {
